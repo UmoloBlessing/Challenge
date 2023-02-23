@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background-color: rgb(250, 235, 215);
+  margin: 50px;
+}
+
+h1 {
+  font-family: 'oswald' sans-serif;
+}
+
+p {
+  font-family: 'fira-sans' sans-serif;
+  font-size: 24px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(147, 49, 25);
+  cursor: pointer;
+}
+
+a:hover {
+  text-decoration: none;
+  background-color: rgb(180, 12, 90);
+}
